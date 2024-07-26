@@ -181,7 +181,7 @@ Datawise Solutions requires efficient management of AWS Identity and Access Mana
 
 1. Comprehensive documentation detailing your entire thought process in developing the script.
 2. Link to the script used for remote execution.
-[link to the complete script](https://github.com/Fumnanya92/Darey.io_Projects/blob/main/Linux_project/project_script/linux_administration_and_shell_script_script.md)
+[link to the complete script](https://github.com/Fumnanya92/Shell-script-for-Aws-IAM-Management/blob/main/Project-script.md)
 
 ## Remote Deployment Process
 
